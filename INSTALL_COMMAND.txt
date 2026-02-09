@@ -1,0 +1,1 @@
+curl -sSL https://raw.githubusercontent.com/ueno-ryu/dotfiles/main/setup-dev-env.sh | bash
